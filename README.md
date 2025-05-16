@@ -36,7 +36,3 @@ HTTP/1.1 200 OK
 - Ao receber uma chamada para a URL encurtada `https://xxx.com/DXB6V`, você deve fazer o redirecionamento para a
   URL original salva no banco de dados. Caso a URL não seja encontrada no banco, retorne o código de
   status `HTTP 404 (Not Found)`.
-
-## Soluções
-
-Neste [tópico](SOLUTIONS.md), você encontrará soluções para esse desafio, feitas por outros membros da comunidade.
